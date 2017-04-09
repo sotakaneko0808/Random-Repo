@@ -1,4 +1,3 @@
-
 #include <Stepper.h>
 
 const int stepsPerRevolution = 2000; //hange this to fit the number of steps per revolution
